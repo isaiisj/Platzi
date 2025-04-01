@@ -3,6 +3,6 @@
 <p>Instructor: Camila Londoño</p>
 
 <ol>
-  <li>Curso de entrevistas técnicas: Estructura de datos y algoritmos avamzados</li>
+  <li>Curso de entrevistas técnicas: Estructura de datos y algoritmos avanzados</li>
   <li>Curso de Algoritmos Avanzados: Patrones de Arrays y Strings</li>
 </ol>
